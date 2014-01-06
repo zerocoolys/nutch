@@ -5,3 +5,9 @@ conf/slaves
 build/
 runtime/
 logs/
+/target
+.idea/
+.classpath
+.settings/
+.project
+*.iml

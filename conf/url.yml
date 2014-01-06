@@ -1,0 +1,22 @@
+site.list: amazon
+
+site.amazon: "http://www.amazon.com"
+amazon.brand: "#brand"
+amazon.title: "#title"
+amazon.price: "#priceblock_ourprice"
+amazon.reviews: "#averageCustomerReviews"
+amazon.p: "#landingImage"
+amazon.asin: "#detailBullets_feature_div ul li:nth-child(1) span span:nth-child(2)"
+amazon.dim: "#detailBullets_feature_div ul li:nth-child(2) span span:nth-child(2)"
+amazon.shipping.weight: "#detailBullets_feature_div ul li:nth-child(3) span span:nth-child(2)"
+amazon.model.number: "#detailBullets_feature_div ul li:nth-child(5) span span:nth-child(2)"
+amazon.desc: "#productDescription"
+
+
+# site.6pm: "http://www.6pm.com"
+# 6pm.brand: "#productStage\"]/h1/a[1]"
+# 6pm.title: "#productStage\"]/h1/a[2]"
+# 6pm.price: "#priceSlot\"]/div"
+# 6pm.shipping: "#shipOpts"
+# 6pm.picture: "#detailImage\"]/img"
+
